@@ -1,2 +1,4 @@
 # hello-world
-This is a hello world project.
+
+Hi There..
+Hope you doing well...Trying to learn git..
